@@ -2,7 +2,7 @@
 a simulation of an administration system
 
 WELCOME! 
-this a simulation of an administration system, basically a CRUD (Create, Read, Update, Delete).
+this is a simulation of an administration system, basically a CRUD (Create, Read, Update, Delete).
 
 Bellow, i going to explain how can you run this script without any problem, in this case i going to use Linux, but the steps are almost the same in anothers operational systems!
 
